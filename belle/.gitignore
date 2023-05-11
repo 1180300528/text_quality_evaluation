@@ -1,0 +1,7 @@
+*.tmp
+*.swp
+__pycache__
+.vscode
+regen.json
+.ipynb_checkpoints
+.idea

@@ -1,0 +1,1 @@
+scp 72proxy:~/torchblocks/outputs/EDOS_output/EDOS_roberta_V0/checkpoint-eval_F1-0.5497-step-301/test_predict_results.pkl d:/比赛专用文件夹/data

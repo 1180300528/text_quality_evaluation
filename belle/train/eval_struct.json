@@ -1,0 +1,386 @@
+[
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：来源：新浪科技<br/>新浪科技讯 北京时间2月5日早间消息，据外媒报道，软银旗下1000亿美元的愿景基金（Vision Fund）的一位美国高管在对这家科技集团的“问题”表示担忧后即将离职，该集团在过去一年中遭遇了一系列挫折，包括对WeWork的投资恶化。<br/>在2017年加入软银的前高盛银行家迈克尔·罗南（Michael Ronen）对媒体表示，他已经“就他的离职条款”与软银谈判了数周。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下： 罗南是愿景基金在美国投资的管理合伙人，领导了数项针对运输和物流初创企业的投资，包括Getaround、GM Cruise和Nuro等。<br/>据知情人士透露，软银也在讨论罗恩·费舍尔（Ron Fisher）在软银的未来。费舍尔是软银的副董事长，是软银创始人孙正义的任职时间最长的副手之一，也是软银在WeWork上大举押注的主要倡导者。此前 软银曾表示，费舍尔是“软银家族的重要成员”，不会去任何地方。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>一系列灾难性的投资已经动摇了人们对愿景基金的信心，让孙正义再难为其后续资金募集到更多外部资本。<br/>费舍尔于1995年加入软银，是孙正义最亲密的顾问之一。一些知情人士表示，虽然是孙正义签署了软银在WeWork的100多亿美元投资，但实际上是费舍尔在WeWork的董事会任职，并在其战略规划上与管理层进行了密切合作。记者未能联系到费舍尔对此置评。<br/>一位了解谈判情况的人士表示，LinkedIn和谷歌前高管Deep Nishar和德意志银行前高管、SBIA首席执行官拉杰夫·米斯拉的亲密合伙人科林·范（Colin Fan），将可能会接替罗宁在软银的职务，负责软银在美国的事务。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>罗宁离职之际，知情人士表示，软银和孙正义未能为愿景基金二期筹集到任何外部投资。<br/>去年7月，孙正义为愿景基金二期邀请到了苹果、微软和哈萨克斯坦国家银行（National Bank of Kazakhstan）等多家潜在投资者，他表示，尽管没有邀请到愿景基金一期（first Vision fund）最大的外部投资者沙特阿拉伯和阿布扎比（Abu Dhabi），但二期基金的承诺总额仍高达1080亿美元。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>知情人士表示，尽管还没有一个潜在投资者对他们在愿景基金二期的非约束性承诺加以确认，软银仍为基金二期提供了约50亿美元的注资，以便开始投资。<br/>知情人士表示，在愿景基金一期的几次高调投资遭到失败后，向该基金注资了600亿美元的海湾国家投资者们开始担心起他们的资金的未来。<br/>损失惨重的WeWork最终证明是软银的毁灭性豪赌，因为其IPO上市计划的失败，迫使软银在去年年底追加了数十亿美元的救助资金，以避免其遭到破产的命运。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>软银近期已在WeWork设立了新的管理层，同时它还向它所投资的其他公司施压，要求它们减少亏损，增加利润。<br/>软银股价自去年4月触及到21世纪以来的最高水平后，到目前已下跌了25%。此前软银投资的一系列知名公司在股市的首次亮相都非常令人尴尬，其中包括Uber和Slack。<br/>中国电子商务集团阿里巴巴股价的上涨部分掩盖了软银的糟糕表现。阿里巴巴股价大幅攀升，市值达到6000亿美元。\n\nAssistant: ",
+        "predict": "、台湾、香港、澳大利亚"
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：故宫博物院院长深夜道歉 相关负责人停职<br/>今天凌晨，故宫博物院院长王旭东发文，就近期发生的“开车逛故宫”事件向公众致歉，并公布处分决定，副院长及保卫处处长停职检查。<br/>根据“致歉”声明的说法，开车进故宫实则是经过故宫博物院批准的闭馆日活动，有200余人参加。<br/>因原定停车场车位已满，临时改变停车位置。且该区域地面是现代材料，多年来一直作为闭馆时段的车辆通道和闭馆日活动的临时停车场所。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>【午茶君说】<br/>宫中无小事，事事让人忧。<br/>这两天，中国新闻网、人民日报、央视新闻等各大媒体相继发声要查是谁放露小宝进入故宫撒欢的。<br/>从17日晚到21日凌晨，用了这么长时间调查出来的结果，居然是停车场的问题，也真为难故宫了。<br/>“临时停车场”，多有创造力的一个发明，临时工会说话，临时停车场可没长嘴巴。<br/>1月13日举办的那种闭馆日活动，咱们可以报名参加吗？\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>马化腾售500万股股份套现近20亿港元<br/>据港交所披露，腾讯控股（00700）CEO马化腾在1月14日至1月17日四天内出售了500万股腾讯控股股份，套现达19.96亿港元。<br/>此前，腾讯控股经过多日上涨，股价于1月13日重回400港元，当日收报406.40港元，涨幅1.96%。<br/>重回400港元后，其CEO马化腾即出手沽货套现，完成交易后，持有8.145亿股或8.53%腾讯权益。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>【午茶君说】<br/>受此消息影响，腾讯控股今日股价下跌，截至今日收盘报385.40港元，跌幅2.78%。<br/>但是以目前腾讯控股股价计算，马化腾对腾讯的持股价值约为3000亿港元，减持20亿港元，股价稍微动一动而已，在马化腾总财富盘子里，也只是毛毛雨。<br/>一般而言，关键人物减持是不好的信号，管理层减持，可能意味着公司行情将转坏，但是马化腾的减持，并没有让外界看衰腾讯。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>一切都得益于腾讯现金流稳定可靠，也不是高分红公司，资金用来做更有效率的投资和业务拓展，使得公司股价一直上涨，用股价上涨回馈投资者。<br/>优刻得登陆科创板 A股迎首家“同股不同权”公司<br/>1月20日，优刻得（688158）正式登陆科创板，成为中国云计算第一股，值得注意的是，它也是A股第一家同股不同权的上市公司。<br/>企查查数据显示，优刻得是一家第三方云计算服务商，2016年度、2017年度、2018年度，营业收入分别为：5.16亿元、8.40亿元、11.9亿元，公司实控人为季昕华、莫显峰及华琨。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>【午茶君说】<br/>过去，A股并不允许“同股不同权”企业上市，不少采用这种模式的科创企业只能望而兴叹或远赴境外，而科创板为这些企业重新打开了境内资本市场的大门。<br/>“同股不同权”是相对于常规的“同股同权”而言。“同股同权”就是一股一票，谁的股份多，谁在决策投票中就占有优势。而“同股不同权”则将股票分成了不同的种类，比如优刻得公司三位联合创始人在本次发行完成后将合计持有公司 23.11%的股份，但由于他们持有的A类股份表决权数量被设置为B类股份的5倍，所以三人拥有了60.06%的表决权。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>不少同类型的企业都在关注着优刻得的上市进程，随着他们的成功上市，将会有一批“同股不同权”的科创企业开始申请登陆科创板。<br/>世界经济论坛将聚焦可持续发展 资本主义遭审视<br/>世界经济论坛(WEF)2020年年会将于1月21日至24日在瑞士达沃斯举办，主题为“凝聚全球力量，实现可持续发展”。<br/>据外媒报道，当今市值最高的10家跨国企业中有8家的首席执行官将出席此次论坛，将聚焦气候变化和社会问题的紧迫性，批判唯利是图的原始资本主义带来的后果。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>【午茶君说】<br/>世界经济论坛创始人施瓦布说：“许多人现在已经意识到，这种形式的资本主义已不可持续。”<br/>为了表明他们的诚意，并准备好迎接比平时更严厉的批评，世界经济论坛年会的组织者今年向一些社会活动家发出了参会邀请。<br/>此前，一些社会活动人士声称，今年的达沃斯论坛年会将是最后一届，因为该会议本身就是导致不公现象加剧体系的一部分。<br/>此外据西班牙《经济学家报》1月19日刊载题为《达沃斯：超级富豪的聚会》的报道称，在最富的人和最穷的人之间的鸿沟日益扩大之际，至少119位超级富豪正在陆续抵达瑞士，准备与各国银行家、政要和其他重要人物一同参加世界经济论坛年会。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>病毒事件引发亚太股市回调 医疗板块一骑绝尘<br/>上证指数报3052.14点，下跌1.41%，成交额2862.68亿。<br/>深证成指报10953.41点，下跌1.46%，成交额4042.58亿。<br/>创业板指报1967.03点，下跌0.76%，成交额1445.46亿。<br/>两市合计成交6905.27亿。<br/>①多家平台发布对武汉地区酒店的订单声明，承诺无损取消，亦有多家航空公司对武汉出港旅客提供全额退票或改签服务；<br/>②3M等品牌口罩的电商旗舰店多款产品卖断货；<br/>③港交所：美的集团通过互联互通机制的买盘指令暂停，仍接受卖盘指令，美的集团股价日内一度回落逾3%；<br/>④日本央行2020财年GDP增长预测0.9％，此前为0.7％，维持政策利率在-0.1%不变，符合预期，称来自海外的下行风险有所下降；<br/>⑤武汉成立疫情防控指挥部，对不重视不落实者将严肃追责（长江日报）。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>隔夜shibor1.885%，跌36.3个基点；<br/>一周shibor2.601%，跌0.6个基点；<br/>三个月shibor2.859%，跌0.1个基点；<br/>央行今日进行1000亿元14天期逆回购操作，日内无逆回购到期，等量净投放；<br/>银行间拆借利率多数下行，DR001、DR007较上一交易日延续回落。<br/>国内债市方面，受股市回落影响，十年期国债期货主力T2003平开直线回升，联塑第三个交易日大幅上涨，创下四个月新高，盘中刷新合约成立以来新高，国债指数涨0.06%，再度刷新历史新高，十年期国债收益率报3.080%，较上一交易日大幅回落50个基点。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>国际债市方面，主流市场十年期国债收益率表现整体稳定，香港，美国十年期国债收益率较上一交易日小幅下行。<br/>美元兑人民币离岸价6.9072，兑在岸价6.9053（截至16:00)；<br/>隔夜，美元指数回落0.05%，兑主流货币表现平稳；<br/>日内，美元兑在岸、离岸人民币强势回升，较昨日回升近300个基点，兑人民币中间价报6.8606，连续第二日回落，创下六个月新低<br/>【午茶君说】<br/>早间，受宏观事件推动，三大股指低开回落，行业板块多数飘绿，医药、医疗板块连续第二个交易日直线回升，伴随着相关事件的进一步发酵，沪指进一步跳水回落，临近午市休市，指数短暂企稳盘整；<br/>午后，大盘延续弱势回调，阶梯式下行再度刷新日内新低，市场热点乏善可陈，医药制造指数再度扩大涨幅，然市场情绪趋向平稳，以窄幅盘整态势结束日内交易。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：异动！新华联在今日09:41跌幅达-4.26%，现价3.82元。<br/>年末的致辞中董事长傅军刚宣布2019年销售破千亿的好消息，2020年的“灾祸”就接踵而至。<br/>据天眼查数据显示，1月13日，新华联集团的运营主体新华联控股有限公司新增6条被执行人信息，累计执行标的超4.9亿元。<br/>这其实不是新华联本月的第一次危机。<br/>1月9日，新华联晚间公告显示，近日收到东方金诚国际信用评估有限公司出具的《关于将“15华联债”列入评级观察名单的公告》，东方金诚将公司发行的“15华联债”列入评级观察名单。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>17日与湖南出版财务公司刚刚协商好，中国民生信托就于18日对26.8亿元未到期信托贷款申请强制执行。<br/>强制执行的贷款后续如何？<br/>“榜上有名”又是什么原因？<br/>身陷囹圄却仍对子公司伸出援手又是何来的自信？<br/>经过《财经看点网》编辑的调查，来看看究竟怎么回事。<br/>小纠纷引发大额贷款强制执行<br/>1月18日，新华联集团称，受近期下属企业新华联财务公司与湖南出版财务公司事件影响，加上部分媒体的不实报道，中国民生信托有限公司对新华联控股有限公司尚未到期的26.8亿元信托贷款申请强制执行。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>那么与湖南出版财务公司的事件是怎么回事呢？<br/>财经评论员严跃进先生认为，这次事件可以认为新华联财务上确实有压力，而纠纷使得压力进一步放大，导致后续问题更加难以解决，造成恶性循环；从产业来讲，这次问题应该跟文旅有关，重资产不大可能会出现这种问题；新华联最好不要再盲目进行、引进一些别的项目，不然财务会出现困难，甚至资金链很有可能断裂。<br/>1月17日经湖南省长沙市中级人民法院庭前调解，新华联控股集团财务有限责任公司与湖南出版投资控股集团财务有限公司达成和解，并签署民事调解书，解决该纠纷案件。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>三方一致确认，新华联控股集团财务有限责任公司于协议签订且三方均已签收本民事调解书的当日，向湖南出版投资控股集团财务有限公司偿还6500万元，1月23日前向湖南出版投资控股集团财务有限公司偿还6500万元，4月30日前再向湖南出版投资控股集团财务有限公司偿还1.5亿元。<br/>在三方签署协议且三方均已签收本民事调解书后的两个交易日内，湖南出版投资控股集团财务有限公司将促成其控股股东中南出版传媒集团股份有限公司就本案已达成调解事宜。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>18日，新华联控股有限公司与中国民生信托有限公司友好沟通，最终达成和解。双方已正式签订和解协议，定于1月19日向法院提交和解协议，申请解除相关执行措施，由法院裁定终结本次执行程序。<br/>引人注意的是，民生信托的母公司为泛海控股，实际控制人为卢志强。卢志强与新华联的傅军同为“泰山会”大佬，关系亲密。民生信托急不可耐的冻结了新华联名下上市公司股权，不禁让人心生疑惑，对新华联的债务情况也进一步产生担忧。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>在去年12月13日，引起轩然大波的交通银行青岛分行5亿违规放贷案便肇始于交行青岛分行、东岳集团和山东盟诚电气有限公司及其关联公司（即“盟诚系”）的一份《三方合作协议》。<br/>而东岳集团也是新华联的“一面旗帜”。新华联国际作为东岳集团的大股东，也是新华联文化旅游发展股份有限公司的全资子公司。<br/>评级观察名单“榜上有名”<br/>新华联前董事长苏波出事才不久，新华联没有任何喘息的机会，又“摊上事儿了”。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>新华联(000620)1月9日晚间公告，近日收到东方金诚国际信用评估有限公司(以下简称“东方金诚”)出具的《关于将“15华联债”列入评级观察名单的公告》，东方金诚将公司发行的“15华联债”列入评级观察名单。<br/>2015年，新华联启动新华联不动产股份有限公司2015年公司债券(简称“15华联债”)，发行规模为13亿元，募资用途为全部用于补充流动资金，公司债到期日期为2022年4月。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>公告显示，“15华联债”上一次的评级结论是，根据东方金诚2019年6月21日出具的《新华联文化旅游发展股份有限公司主体及“15华联债”2019年度跟踪评级报告》，东方金诚维持公司主体信用等级为AA，评级展望为稳定，同时维持“15华联债”的信用等级为AA+。<br/>可惜这次，东方金诚将“15华联债”信用等级AA+列入评级观察名单。<br/>东方金诚将15华联债进行评级调整的原因主要有三点：<br/>一、2019年12月，湖南出版投资控股集团财务有限公司因与新华联控股集团财务有限责任公司(以下简称“新华联财务公司”)同业拆借纠纷，提起对新华联财务公司及该笔款项的担保方新华联控股有限公司(以下简称“新华联控股”)的诉讼。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>二、新华联控股2020年将面临31.60亿元的债券到期和15亿元的债券回售，存在一定债券集中偿付压力。<br/>三、新华联文旅原董事长兼总裁被协助调查，董事会免去其董事长职务并改选了董事及改聘总裁。<br/>对于此次公司债被列入评级观察名单，新华联公告称，此次“15华联债”列入评级观察名单，并未下调债券评级等级，不会对公司及新华联控股的偿债能力产生影响，也不会对债券投资者适当性管理、债券质押式回购资格造成不利影响。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>心甘情愿的“难上加难”<br/>新华联长沙铜官窑<br/>在危机四伏的困难时期，新华联仍旧为它旗下的文旅项目撑起一片天。<br/>1月13日，新华联文化旅游发展股份有限公司发布公告称，拟为下属子公司长沙新华联铜官窑国际文化旅游开发有限公司4.1亿元贷款提供担保。<br/>新华联就此与长沙银行望城支行签署合同，为本次融资事项提供连带责任保证担保，保证期间为自主合同项下的债务履行期限届满之日起两年内。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：同时，长沙铜官窑以其所持有的部分房产为本次融资提供抵押担保。<br/>长沙新华联铜官窑国际文化旅游开发有限公司成立于2013年5月，注册资本10亿元，主营旅游景区规划设计、开发、管理；文化艺术交流活动的组织；文物及非物质文化遗产保护等。新华联全资子公司北京新华联置地有限公司持有长沙铜官窑100%股权。<br/>本次担保提供后，新华联及控股子公司对外担保总余额为200.17亿元，占新华联最近一期经审计净资产的257.37%。\n\nAssistant: ",
+        "predict": "麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳麓书院、岳"
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>这并不是新华联第一次“豁出去”担保自己的“孩子”。<br/>2019年12月24日，新华联曾为全资子公司湖南新华联建设工程有限公司3.85亿元贷款提供担保。<br/>而新华联寄托厚望的铜官窑古镇，似乎并不如预期般发展顺利。<br/>笔者在大众点评、美团、去哪儿等多个网络平台上搜索铜官窑古镇，从网友评价中发现，即使是好评，“性价比低”、“票价贵”等负面词汇频频出现。<br/>新华联铜官窑古镇官网显示，有三种类型票可供游客购买，200元的成人单日票，960元的春季双人一晚套餐，及1180元的春季家庭套餐（两种套餐除门票外，均包含其他娱乐内容）。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：<br/>与长沙周边景点对比发现，铜官窑古镇的票价确实较高。<br/>笔者根据东方财富网节选的新华联数据了解到，新华联从2018年底到2019年第三季度末存货是呈上升趋势的，由此可知其在这一年内销售状况很差。由于存货长期积压，存货周转率降低，销售的阻力使得产品的竞争力下降。在此低迷局势下，公司为了自我救赎只好降价销售，毛利率也就自然而言下降了。<br/>今日的新华联融资融券信息显示，2020年1月20日融资净偿还50.65万元；融资余额1.42亿元，较前一日下降0.36%。\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    },
+    {
+        "input": "Human: 对于关系与事件，我们通常以如下方式表示：小明-父亲-大明， 王二-朋友-张三， 小明-掌管-董事会， 周杰伦-举办-演唱会。下面是一篇文章的一部分，请你帮我将其中的实体、实体间的关系、发生的事件以及关键词抽取出来，关系与事件用前面所说的通常的方式表示，如果有多个，请用“,”隔开。内容如下：[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]\n\nAssistant: ",
+        "predict": ""
+    }
+]
